@@ -20,6 +20,8 @@ git config --global user.email "Tu correo"
 
 * [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets)
 
+* [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist)
+
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 * [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
