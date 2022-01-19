@@ -18,6 +18,8 @@ git config --global user.email "Tu correo"
 
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
 
+* [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets)
+
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 * [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
